@@ -2,5 +2,5 @@
 
 A drum-kit website I made while learning. A fun project though!
 
-If the website doesn't open through GitHub, Here's the Netlify link:
+Link:
 https://adityasdrumkit.netlify.app/
